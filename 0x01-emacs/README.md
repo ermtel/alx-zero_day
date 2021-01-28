@@ -1,0 +1,1 @@
+**This Project helps to familiarize with the emacs text editor**
