@@ -1,1 +1,1 @@
-**This is project  to practice operating git**
+**This project is to practice operating git**
